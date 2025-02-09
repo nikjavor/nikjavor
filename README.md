@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Nik
 
-### 🔭 Currently working on
+### Currently working on
 - 🧩 New Lora scorekeeper app called Njivička Lora
 
 ### Future (probably)
