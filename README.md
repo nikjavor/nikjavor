@@ -1,3 +1,9 @@
+## I'm Nik
+
+I like to 💻 develop things, ⛷️ ski and 🏄‍♂️ surf.
+
+My email: nik.javor@proton.me
+
 <!--
 ## Hi there 👋 I'm Nik
 
