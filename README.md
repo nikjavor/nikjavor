@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋 I'm Nik
 
 ### Currently working on
@@ -5,7 +6,7 @@
 
 ### Future (probably)
 - 🧮 Sudoku solver
-
+-->
 
 <!--
 **nikjavor/nikjavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
